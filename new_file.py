@@ -1,2 +1,3 @@
 print('hiya')
-print('git is fun')
+
+print('hello')
